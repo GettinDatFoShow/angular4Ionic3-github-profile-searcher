@@ -10,5 +10,5 @@ video of app can be found here : [Ionic GitHub Profile Searcher!](https://youtu.
 
 
 
-![results page](https://photos.app.goo.gl/L9qvHqUcvFRMXCA43)
+![results page](https://github.com/GettinDatFoShow/angular4Ionic3-github-profile-searcher/blob/master/project_images/gitprofilesearcher3.png)
 
