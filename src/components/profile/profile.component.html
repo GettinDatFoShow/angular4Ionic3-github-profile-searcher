@@ -1,0 +1,18 @@
+<ion-item *ngIf="user" text-wrap>
+  <ion-avatar item-left>
+    <img [src]="user.avatar_url" alt=""/>
+  </ion-avatar>
+  <h2>{{user.name}}</h2>
+  <h3>{{user.login}}</h3>
+  <h3>{{user.company}}</h3>
+  <p>{{user.location}}</p>
+  <p>{{user.email}}</p>
+  <p text-wrap>{{user.bio}}</p>
+</ion-item>
+
+<ion-item *ngIf="!user" text-wrap>
+  <ion-avatar item-left>
+    <img src="http://mypersonalstylist.com.au/wp-content/uploads/2010/12/Sorry-Post-It.png" alt=""/>
+  </ion-avatar>
+  <h2>No Profile Found Under: "{{username}}"</h2>
+</ion-item>
