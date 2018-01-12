@@ -4,10 +4,10 @@
 video of app can be found here : [Ionic GitHub Profile Searcher!](https://youtu.be/UqjNpZ8ZUZA)
 
 ![Home Page](https://github.com/GettinDatFoShow/angular4Ionic3-github-profile-searcher/blob/master/project_images/gitprofilesearcher1.png)
-Format: ![Alt Text](url)
 
-![Home Page username](https://photos.google.com/search/_tra_/photo/AF1QipNnkS47xspjQNzMv36r0kdjv1ZVcrjuDstS0nr5)
-Format: ![Alt Text](url)
+
+![Home Page username](https://github.com/GettinDatFoShow/angular4Ionic3-github-profile-searcher/blob/master/project_images/gitprofilesearcher2.png)
+
 
 
 ![results page](https://photos.app.goo.gl/L9qvHqUcvFRMXCA43)
