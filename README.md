@@ -3,7 +3,7 @@
 
 video of app can be found here : [Ionic GitHub Profile Searcher!](https://youtu.be/UqjNpZ8ZUZA)
 
-![Home Page](https://photos.google.com/search/_tra_/photo/AF1QipPfxncSNezCMlx2V4uW_S743lEpcfTJmPycIlGT)
+![Home Page](https://github.com/GettinDatFoShow/angular4Ionic3-github-profile-searcher/blob/master/project_images/gitprofilesearcher1.png)
 Format: ![Alt Text](url)
 
 ![Home Page username](https://photos.google.com/search/_tra_/photo/AF1QipNnkS47xspjQNzMv36r0kdjv1ZVcrjuDstS0nr5)
